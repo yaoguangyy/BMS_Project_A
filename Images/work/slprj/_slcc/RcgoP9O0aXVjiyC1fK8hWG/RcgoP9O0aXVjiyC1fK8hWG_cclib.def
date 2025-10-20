@@ -1,0 +1,18 @@
+EXPORTS
+    __mw_instrum_get_db_len @1
+    __mw_instrum_get_db_ptr @2
+    __mw_instrum_get_hits_ptr @3
+    __mw_instrum_get_hits_size @4
+    __mw_instrum_initialize_coverage @5
+    __mw_instrum_set_abs_tol @6
+    __mw_instrum_set_enabled @7
+    __mw_instrum_set_rel_tol @8
+    __mw_instrum_terminate_coverage @9
+    __mw_instrum_upload_coverage_synthesis @10
+    add_RcgoP9O0aXVjiyC1fK8hWG @11
+    counterbusFcn_RcgoP9O0aXVjiyC1fK8hWG @12
+    getNextTrafficLight_RcgoP9O0aXVjiyC1fK8hWG @13
+    get_checksum_source_info @14
+    get_dll_checksum_RcgoP9O0aXVjiyC1fK8hWG @15
+    incrementElement_RcgoP9O0aXVjiyC1fK8hWG @16
+    timesK_RcgoP9O0aXVjiyC1fK8hWG @17
